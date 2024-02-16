@@ -1,0 +1,14 @@
+C:\Users\priscilla glory\Desktop\web\ConAppEvenOdd\ConAppEvenOdd\bin\Debug\net6.0\ConAppEvenOdd.exe
+C:\Users\priscilla glory\Desktop\web\ConAppEvenOdd\ConAppEvenOdd\bin\Debug\net6.0\ConAppEvenOdd.deps.json
+C:\Users\priscilla glory\Desktop\web\ConAppEvenOdd\ConAppEvenOdd\bin\Debug\net6.0\ConAppEvenOdd.runtimeconfig.json
+C:\Users\priscilla glory\Desktop\web\ConAppEvenOdd\ConAppEvenOdd\bin\Debug\net6.0\ConAppEvenOdd.dll
+C:\Users\priscilla glory\Desktop\web\ConAppEvenOdd\ConAppEvenOdd\bin\Debug\net6.0\ConAppEvenOdd.pdb
+C:\Users\priscilla glory\Desktop\web\ConAppEvenOdd\ConAppEvenOdd\obj\Debug\net6.0\ConAppEvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priscilla glory\Desktop\web\ConAppEvenOdd\ConAppEvenOdd\obj\Debug\net6.0\ConAppEvenOdd.AssemblyInfoInputs.cache
+C:\Users\priscilla glory\Desktop\web\ConAppEvenOdd\ConAppEvenOdd\obj\Debug\net6.0\ConAppEvenOdd.AssemblyInfo.cs
+C:\Users\priscilla glory\Desktop\web\ConAppEvenOdd\ConAppEvenOdd\obj\Debug\net6.0\ConAppEvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\priscilla glory\Desktop\web\ConAppEvenOdd\ConAppEvenOdd\obj\Debug\net6.0\ConAppEvenOdd.dll
+C:\Users\priscilla glory\Desktop\web\ConAppEvenOdd\ConAppEvenOdd\obj\Debug\net6.0\refint\ConAppEvenOdd.dll
+C:\Users\priscilla glory\Desktop\web\ConAppEvenOdd\ConAppEvenOdd\obj\Debug\net6.0\ConAppEvenOdd.pdb
+C:\Users\priscilla glory\Desktop\web\ConAppEvenOdd\ConAppEvenOdd\obj\Debug\net6.0\ConAppEvenOdd.genruntimeconfig.cache
+C:\Users\priscilla glory\Desktop\web\ConAppEvenOdd\ConAppEvenOdd\obj\Debug\net6.0\ref\ConAppEvenOdd.dll
